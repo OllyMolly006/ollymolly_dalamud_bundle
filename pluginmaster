@@ -1,0 +1,20 @@
+[
+  {
+    "Author": "OllyMolly006",
+    "Name": "Chat with AI support for FFXIV",
+    "Description": "Lets you interact with AI through the in-game chat. Configuration requires an API key, endpoint and model",
+    "InternalName": "ChatAIPlugin",
+    "AssemblyVersion": "1.0.0.0",
+    "TestingAssemblyVersion": null,
+    "RepoUrl": "https://github.com/OllyMolly006/dalamud-askai",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 10,
+    "Punchline": "your AI chat helper.",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://github.com/OllyMolly006/dalamud-askai/releases/download/v0.1/latest.zip",
+    "DownloadLinkTesting": "https://github.com/OllyMolly006/dalamud-askai/releases/download/v0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/OllyMolly006/dalamud-askai/releases/download/v0.1/latest.zip",
+    "LastUpdate": "1701231234"
+  },
+]
